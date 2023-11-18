@@ -34,6 +34,8 @@ I believe in staying at the forefront of design and technology trends. Currently
 🌐 Connect with Me:
 Let's collaborate! Feel free to reach out for discussions on UX/UI, Frontend, or anything design-related.
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 📱 Social Media:
 
 Twitter: [Your Twitter Handle]
