@@ -3,6 +3,7 @@
 🎨 UX/UI Designer | Frontend Enthusiast | Professor
 
 🌟 About Me:
+
 Passionate about crafting delightful user experiences, I'm a seasoned UX/UI Designer with a knack for turning complex problems into intuitive and visually appealing solutions. My journey includes two years as a UX Designer at the Atlantic Institute, where I honed my skills in prototyping, collaboration, and user-centric design.
 
 🚀 Key Skills:
@@ -11,9 +12,11 @@ UX/UI Design: Specialized in prototyping and crafting visual solutions that seam
 Frontend Enthusiast: I enjoy diving into the world of Frontend development, understanding the technologies that bring designs to life.
 
 📚 As a Professor:
+
 Bringing my passion for design into the classroom, I've spent over a decade as a university professor at UNI7. My courses delve into Digital Media Communication, Innovation Management, and Digital Image Processing, creating an environment where students explore the intersection of creativity and technology.
 
 💼 Highlights:
+
 Successfully translated intricate concepts into user-friendly designs.
 Collaborated closely with development teams, ensuring the alignment of design and implementation.
 Actively contributed to ideation sessions, bringing innovative solutions to the table.
@@ -21,7 +24,9 @@ Proficient in wireframing and prototyping, with a focus on iterative testing and
 Conducted UX research, leveraging insights to create designs that meet user needs.
 
 🛠️ Tech Stack:
+
 Prototyping: Figma, Adobe XD
+
 ### Skills
 
 <p align="left">
@@ -29,9 +34,11 @@ Prototyping: Figma, Adobe XD
 </p>
 
 📚 Continuously Learning:
+
 I believe in staying at the forefront of design and technology trends. Currently exploring [mention any specific areas or technologies you're currently learning].
 
 🌐 Connect with Me:
+
 Let's collaborate! Feel free to reach out for discussions on UX/UI, Frontend, or anything design-related.
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
