@@ -44,3 +44,6 @@ Instagram: [Your Instagram Handle]
 Connect with me on LinkedIn.
 
 🚀 Excited about the intersection of design and technology, I'm on a mission to create seamless digital experiences that leave a lasting impact. Let's build something amazing together!
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="rblimajunior" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/rblimajunior/en?trk=profile-badge">Raimundo Bezerra Lima Júnior</a></div>
+              
