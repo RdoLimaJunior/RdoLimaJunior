@@ -38,12 +38,9 @@ Let's collaborate! Feel free to reach out for discussions on UX/UI, Frontend, or
 
 📱 Social Media:
 
-Twitter: [Your Twitter Handle]
-Instagram: [Your Instagram Handle]
-🔗 LinkedIn:
-Connect with me on LinkedIn.
+### Socials
+
+<p align="left"> <a href="https://www.github.com/RdoLimaJunior" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/rb.limajunior" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/rblimajunior/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 🚀 Excited about the intersection of design and technology, I'm on a mission to create seamless digital experiences that leave a lasting impact. Let's build something amazing together!
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="rblimajunior" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/rblimajunior/en?trk=profile-badge">Raimundo Bezerra Lima Júnior</a></div>
-              
